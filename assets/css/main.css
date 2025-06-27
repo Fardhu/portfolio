@@ -758,6 +758,10 @@ section,
     font-size: 20px;
   }
 }
+ .hero img {
+  object-position: right top;
+ }
+
 
 /*--------------------------------------------------------------
 # About Section
