@@ -757,10 +757,11 @@ section,
   .hero p {
     font-size: 20px;
   }
-}
- .hero img {
+  .hero img {
   object-position: right top;
  }
+}
+ 
 
 
 /*--------------------------------------------------------------
